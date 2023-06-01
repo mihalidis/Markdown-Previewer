@@ -2,7 +2,7 @@
 
 This project aims to develop an application that enables real-time preview of a text editor where text input is made using the Markdown formatting language. [FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer).
 
-**Live:**
+**Live:** https://markdown-previewer-xi-dun.vercel.app/
 
 ## Table of contents
 
@@ -21,12 +21,12 @@ This project aims to develop an application that enables real-time preview of a 
 
 ### Screenshot
 
-![]()
+![](https://www.linkpicture.com/q/Ekran-goruntusu-2023-06-01-174408.png)
 
 ### Links
 
-- Solution URL: [Github Repository]()
-- Live Site URL: [Markdown Previewer]()
+- Solution URL: [Github Repository](https://github.com/mihalidis/Markdown-Previewer)
+- Live Site URL: [Markdown Previewer](https://markdown-previewer-xi-dun.vercel.app/)
 
 ## My process
 
